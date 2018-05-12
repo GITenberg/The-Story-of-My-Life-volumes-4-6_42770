@@ -1,0 +1,28 @@
+_repo: The-Story-of-My-Life-volumes-4-6_42770
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42770-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: Hare, Augustus J. C. (Augustus John Cuthbert)
+    alias: Hare, Augustus John Cuthbert
+    birthdate: 1834
+    deathdate: 1903
+    gutenberg_agent_id: '2896'
+    url: http://www.gutenberg.org/2009/agents/2896
+description: ''
+gutenberg_issued: '2013-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42770'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- Victoria, 1837-1901 -- Biography'
+- !lcsh 'Hare, Augustus J. C. (Augustus John Cuthbert), 1834-1903'
+title: The Story of My Life, volumes 4-6
+url: http://www.gutenberg.org/ebooks/42770
